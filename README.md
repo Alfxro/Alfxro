@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 
 # Congrats!1!! You just found the best Github profile ever!
+I just did this sick full-stack web app with NextJS, go check it out at <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">the preview site</a>  or the full one at <a>http://localhost:3000</a> 
 
-![]()
 <img src="https://media.tenor.com/PpCyGx_84_MAAAAe/jimmy-butler-jimmy-butler-meme.png" alt="Jimmy Butler astonished while looking a shining paper" width="250">
-## I just did this sick full-stack web app with NextJS, go check it out at <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">the preview site</a>  or the full one at <a>http://localhost:3000</a> 
+
+![Metrics](/github-metrics.svg)
 
 Well, thats all. Have a good day!
 <pre>

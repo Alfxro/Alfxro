@@ -19,7 +19,7 @@ I just did this sick full-stack web app with NextJS, go check it out at <a href=
 
 <img src="https://media.tenor.com/PpCyGx_84_MAAAAe/jimmy-butler-jimmy-butler-meme.png" alt="Jimmy Butler astonished while looking a shining paper" width="250">
 
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
 
 Well, thats all. Have a good day!
 <pre>

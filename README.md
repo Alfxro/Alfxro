@@ -9,16 +9,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-# Congrats!1!! You just found the best Github profile ever!
-I just did this sick full-stack web app with NextJS, go check it out at <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">the preview site</a>  or the full one at <a>http://localhost:3000</a> 
+## Congrats!1!! You just found the best Github profile ever!
 
 <img src="https://media.tenor.com/PpCyGx_84_MAAAAe/jimmy-butler-jimmy-butler-meme.png" alt="Jimmy Butler astonished while looking a shining paper" width="250">
-
+Reach me at <a href="mailto:alfaroeacr@gmail.com">alfaroeacr@gmail.com</a>
 <!-- ![Metrics](/github-metrics.svg) -->
 
 Well, thats all. Have a good day!
